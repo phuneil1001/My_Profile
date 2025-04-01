@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi there, I'm Le Phu!
 
-<!--
-**phuneil1001/phuneil1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I'm a passionate **Embedded Systems** and **Deep Learning** developer  
+🚀 I love building things that blend **hardware with intelligence**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 Currently studying and researching Embedded Systems & AI
+- 💡 Interested in **STM32**, **ESP32**, **Arduino**, and **edge AI**
+- 🧠 Deep learning enthusiast: CNNs, LSTMs, Transformers...
+- 🔭 Currently working on:
+  - Self-driving car simulation with CNN
+  - Real-time voice control system using AI
+- 🌱 Always learning: Embedded C, TensorFlow, PyTorch, YOLO...
+
+---
+
+### 🛠️ Technologies & Tools
+
+- 💻 Languages: `C/C++`, `Python`, `Dart`, `HTML/CSS`
+- 🔌 Embedded: `STM32`, `ESP32`, `Arduino`, `FreeRTOS`, `I2C`, `SPI`, `UART`
+- 🤖 AI: `TensorFlow`, `Keras`, `PyTorch`, `OpenCV`
+- 🛠 Tools: `Git`, `VS Code`, `STM32CubeIDE`, `PlatformIO`, `Jupyter`, `Docker`
+
+---
+
+### 📫 Connect with me
+
+- 🌐 GitHub: [phuneil1001](https://github.com/phuneil1001)
+- 📬 Email: [phulesieunangluc@gmail.com] 
+---
+
+### ⚡ Fun fact
+
+> I believe embedded systems are the **nerves**, and deep learning is the **brain** of future technology.
+
+---
+
+⭐ Feel free to explore my repositories and follow me for more embedded + AI projects!
