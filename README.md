@@ -35,6 +35,7 @@
 ### ⚡ Fun fact
 
 > I believe embedded systems are the **nerves**, and deep learning is the **brain** of future technology.
+> - My curiosity often leads me down rabbit holes of new technologies and concepts! 🤓
 
 ---
 
